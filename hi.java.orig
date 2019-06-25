@@ -1,0 +1,18 @@
+class hi
+{
+public static void main(String[] args)
+{
+<<<<<<< HEAD
+System.out.println("hi from hidev linux");
+{#devlinux
+System.out.println("hi from hii");#dev2
+=======
+System.out.println("hi from hi");
+{#dev1
+	System.out.println("hello from second sop");#dev1
+}#dev1
+>>>>>>> 19be2bd2fd198b207d7613e80073e70814bda274
+}
+}
+
+
