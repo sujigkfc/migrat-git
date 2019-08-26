@@ -1,0 +1,20 @@
+def workspace
+node
+{
+    stage('checkout')
+    {
+        stage('build')
+        {
+            echo'build'
+        }
+        stage('unittesting')
+        {
+            echo'unittesting'
+        }
+        stage('delivary')
+        {
+            echo'delivery'
+        }
+    }
+        
+}
